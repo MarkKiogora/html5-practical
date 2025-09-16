@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>One Love Project — Home</title>
+  <meta name="description" content="A simple HTML5 site for the One Love Project, promoting charity and community impact." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="canonical" href="https://example.com/" />
+</head>
+<body>
+  <a href="#main">Skip to content</a>
+
+  <header>
+    <h1>One Love Project</h1>
+    <nav aria-label="Primary">
+      <ul>
+        <li><a href="index.html" aria-current="page">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="media.html">Media</a></li>
+        <li><a href="extras.html">Get Involved</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main">
+    <article>
+      <header>
+        <h2>Welcome to One Love</h2>
+        <p><time datetime="2025-09-16">September 16, 2025</time></p>
+      </header>
+
+      <section>
+        <h3>Our Mission</h3>
+        <p>The <mark>One Love Project</mark> is dedicated to supporting children’s homes, ending hunger, and spreading hope through food drives, clothing donations, and educational outreach.</p>
+      </section>
+
+      <section>
+        <h3>Upcoming Events</h3>
+        <p>See our <a href="#impact">Impact Stories</a> below.</p>
+      </section>
+
+      <section id="impact">
+        <h3>Impact Stories</h3>
+        <blockquote cite="https://www.un.org/sustainabledevelopment/hunger/">
+          “Ending hunger is not a matter of charity, it’s a matter of justice.”
+          <footer>— <cite>UN SDG 2: Zero Hunger</cite></footer>
+        </blockquote>
+        <p>One Love Project has donated over <samp>1000 meals</samp> in the past year.</p>
+      </section>
+
+      <aside aria-label="Side notes">
+        <h4>Did you know?</h4>
+        <p>Every <time datetime="2025-10-01">October</time>, we hold our annual fundraising walkathon.</p>
+      </aside>
+
+      <footer>
+        <address>
+          Contact: <a href="mailto:onelove@example.com">onelove@example.com</a><br>
+          One Love Project, Nairobi
+        </address>
+      </footer>
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; <time datetime="2025">2025</time> One Love Project. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>About — One Love Project</title>
+  <meta name="description" content="Learn about the One Love Project’s mission and activities." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="canonical" href="https://example.com/about.html" />
+</head>
+<body>
+  <a href="#main">Skip to content</a>
+  <header>
+    <h1>About the One Love Project</h1>
+    <nav aria-label="Primary">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" aria-current="page">About</a></li>
+        <li><a href="media.html">Media</a></li>
+        <li><a href="extras.html">Get Involved</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="main">
+    <article>
+      <section>
+        <h2>Our Story</h2>
+        <p>Started by students, the One Love Project works to fight hunger and bring joy to children in need.</p>
+        <ul>
+          <li>Clothing drives</li>
+          <li>Food donations</li>
+          <li>Community education</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>How We Operate</h2>
+        <ol>
+          <li>Identify needs in children’s homes</li>
+          <li>Organize fundraisers and donations</li>
+          <li>Deliver food, clothing, and support</li>
+        </ol>
+      </section>
+
+      <section>
+        <h2>Key Terms</h2>
+        <dl>
+          <dt>Zero Hunger</dt>
+          <dd>UN’s goal to eliminate hunger worldwide by 2030.</dd>
+          <dt>Community Outreach</dt>
+          <dd>Engaging with the public to spread awareness and support.</dd>
+        </dl>
+      </section>
+    </article>
+  </main>
+  <footer>
+    <p>&copy; 2025 One Love Project</p>
+  </footer>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Media — One Love Project</title>
+  <meta name="description" content="Photos, audio, and videos from One Love Project events." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="canonical" href="https://example.com/media.html" />
+</head>
+<body>
+  <a href="#main">Skip to content</a>
+  <header>
+    <h1>One Love Media</h1>
+    <nav aria-label="Primary">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="media.html" aria-current="page">Media</a></li>
+        <li><a href="extras.html">Get Involved</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="main">
+    <article>
+      <section>
+        <h2>Responsive Image</h2>
+        <figure>
+<picture> 
+<source srcset="C:\Users\DRKIOGORA\Downloads\Screenshot 2025-09-16 194623.jpg" media="(min
+width: 1000px)"> 
+<source srcset="C:\Users\DRKIOGORA\Downloads\Screenshot 2025-09-16 194623.jpg" 
+media="(min-width: 600px)"> 
+<img src="C:\Users\DRKIOGORA\Downloads\Screenshot 2025-09-16 194623.jpg" alt="A descriptive 
+view of the campus innovation hub"> 
+         <figcaption>Our team delivering donations.</figcaption>
+
+</picture> 
+      </section>
+<section>
+  <h2>Video</h2>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/INl_HwchunM?si=ukAVEq4gsyy8da5I" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+  </iframe>
+  <p>A short highlight reel of the donation day, including distribution of food, clothing, and smiles from the children.</p>
+</section>
+
+    </article>
+  </main>
+  <footer>
+    <p>&copy; 2025 One Love Project</p>
+  </footer>
+</body>
+</html>
